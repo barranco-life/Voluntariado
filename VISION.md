@@ -1,4 +1,4 @@
-# Visión de Progressive Oneness
+# Visión del Voluntariado Barranco
 
 ## Valores y Creencias Fundamentales
 
@@ -10,8 +10,14 @@ Servir como modelo a seguir para nosotros mismos, y luego para la sociedad, enca
 
 ## Misión
 
-Servir como luz guía para proyectos e individuos que resuenen con una visión transformadora, centrada en la profunda interconexión de toda la existencia, la evolución continua de nuestro ser colectivo, y la búsqueda de una vida auténtica. Nos esforzamos por cultivar un rico mosaico de iniciativas, cada una haciendo eco de nuestros valores fundamentales de innovación, autoconciencia y sostenibilidad. A través de este documento de visión central, invitamos a interpretaciones y aplicaciones diversas de estos principios, fomentando una armonía que respete metas y contextos propios de cada proyecto.
+Habitar el **Proyecto Cultural Barranco** como hogar de un voluntariado horizontal y auto‑gestionado donde practicamos —sin excusas externas— una forma distinta de vivir en comunidad: nace adentro, se hace adentro, se celebra adentro. Lo externo cambia porque nos volvemos ejemplo.
 
-Nuestra visión es que este repositorio se convierta en un crisol de ideas y aspiraciones, un catalizador para un movimiento colectivo que impacte positivamente en la sociedad y, sutilmente, impulse hacia la comprensión de nuestra unidad subyacente. Estamos abiertos a proyectos de todo el espectro - empresariales, educativos, artísticos o tecnológicos - animándolos a adoptar esta visión y tejer su hilo único en el tejido global de cambio.
+Nuestra misión es:
 
-Al embarcarnos en esta misión, estamos comprometidos a construir una comunidad donde la colaboración trascienda meras fronteras físicas e intelectuales, dejando entrever una conexión más profunda que nos une a todos. Vemos esto no solo como un repositorio de ideas, sino como un manifiesto vivo para un cambio transformador, un llamado a todos los que se alinean con estos valores para ayudar a crear un mundo donde la realización de nuestra esencia colectiva nos guíe en el crecimiento personal y el avance social. Este es un viaje hacia la realización de una verdad universal, sutilmente arraigada en nuestras aspiraciones y esfuerzos compartidos.
+- **Co‑crear actividades** (la “moneda” del voluntariado): encuentros, arte, bienestar, cocina, cuidado del lugar y celebración, donde quien llega también aporta.
+- **Cuidar y fortalecer el Barranco**: dejarlo igual o mejor, mantenerlo listo para recibir vida, y reportar/afrontar daños con responsabilidad.
+- **Sostener autogestión con acuerdos simples**: horizontalidad real, con roles claros cuando hacen falta y responsabilidad compartida.
+- **Ser transparentes y open source**: documentar formatos, aprendizajes y números cuando apliquen, para que cualquiera pueda sumarse, proponer y replicar.
+- **Preservar la esencia más allá de personas**: crear hábitos, acuerdos y documentación que mantengan el espíritu del voluntariado incluso si cambian sus miembros.
+
+Medimos el avance por señales simples: **actividades que ocurren**, **personas que vuelven y proponen**, **el Barranco queda listo**, y **cierre transparente cuando hay caja**.
