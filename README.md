@@ -1,29 +1,40 @@
-# Welcome to Progressive Oneness
+# Voluntariado Barranco
 
-Progressive Oneness is an initiative deeply rooted in the pursuit of a transformative vision – one that harmonizes individual aspirations with the collective journey towards unity and progress. Our mission is to be a catalyst for projects that embody this ethos, fostering a network of collaboration under a shared philosophical umbrella.
+El Voluntariado Barranco es la capa “co-creada” del Proyecto Cultural Barranco: actividades simples, auto-gestionadas y con acuerdos claros. Aquí documentamos cada actividad para que cualquier voluntario pueda adoptarla, replicarla y mejorarla.
 
-## Embracing Our Vision
+## Constitución mínima (v0.1)
 
-At the heart of Progressive Oneness is our vision, a guiding manifesto for transformative change and universal interconnectedness. It's more than just a concept; it's a living blueprint for action, innovation, and collective evolution. We invite you to explore and embrace this vision, which is the cornerstone of everything we do. [Dive into our vision](/VISION.md).
+El Voluntariado Barranco es la capa co-creada del Proyecto Cultural Barranco: personas que se juntan a proponer y sostener actividades simples, con acuerdos claros y cariño por el lugar. Aquí no venimos a “consumir un evento”: venimos a habitarlo por un rato, ayudar a que pase, y dejar el espacio igual o mejor de como lo encontramos.
 
-## How to Align with Our Vision
+La autogestión es horizontal, pero no difusa: para cada actividad buscamos responsables auto-denominados (por bloque o por tarea) para que todo sea liviano y coordinado. Si aparece descontrol o falta de respeto, se prioriza el cuidado del grupo y del espacio: se baja la intensidad, se pone orden y, si hace falta, se corta.
 
-You can start aligning with our vision in several ways:
-- **Forking Our Repository**: Fork this repository, customize the vision's mission, and adapt any aspect to fit the unique goals of your project.
-- **Creating a New Repository**: If you prefer not to show your project as a fork, you can create a new repository using ours as a template or just copy the [`VISION.md`](/VISION.md) file and modify it to suit your project.
-- **Get Inspired**: Even if you choose not to fork or directly use our repository, feel free to draw inspiration from our vision and principles in your own way.
+Lo económico es flexible (gratis, aporte sugerido o precio). Lo importante es la transparencia: si hay caja o ingresos, se registran y se rinden cuentas; y si algo se rompe, se reporta y se resuelve con lo reunido o con un acuerdo explícito. El Barranco es la casa: cuidarlo y sostenerlo también es parte del espíritu.
 
-### Get Involved:
-- **Contribute to Our Vision**: Engage with us to refine and expand our vision. Your insights are invaluable.
-- **Start or Align Your Project**: Use our vision as a foundation for your initiatives and align your efforts with a global network of transformative projects.
-- **Engage with the Community**: Join the conversation, share your experiences, and connect with like-minded individuals and groups.
+## Actividades
 
-[Learn how you can contribute](/CONTRIBUTING.md).
+Actividades documentadas (listas para circular):
 
-## Stay Connected
+- [Año Nuevo en el Barranco: Voluntariado por un día (piloto)](./A%C3%B1o%20Nuevo.md)
+  Primer piloto del voluntariado: celebramos Año Nuevo como comunidad de voluntarios (sin dinámica de “clientes/empleados”), con acuerdos de convivencia, apthapis, roles livianos y un reporte transparente del experimento.
 
-Join the conversation and become an active part of our growing community. Share your ideas, ask questions, and connect with others who are passionate about our vision. Visit [Progressive Oneness Discussions](https://github.com/ProgressiveOneness/Vision/discussions) to engage with us and fellow visionaries.
+- [Yoga Barranco 🪷 con Krishna](./Yoga.md) _Actividad del Voluntariado Barranco_
+  Clases regulares de **Hatha Yoga – Iyengar** (Martes y Jueves 10am): preparación simple del espacio + aporte sugerido + apoyo al Proyecto Cultural Barranco y a la caja del voluntariado.
 
-Additionally, explore the [Progressive Oneness Network](https://github.com/ProgressiveOneness/Vision/network) to discover a range of projects aligned with our vision. It's a great way to see the impact of our collective efforts and to find opportunities for collaboration.
+- [Apthapi del Voluntariado Barranco](./Apthapi.md) _Actividad del Voluntariado Barranco_
+  Encuentro (idealmente mensual) después del yoga para compartir, cocinar/comer tipo apthapi y dejar el espacio listo para la apertura habitual del Barranco.
 
-We look forward to seeing you there and collaborating on shaping a unified and progressive future!
+Semillas (aún sin documento):
+
+- Cine comunitario (Cinema Barranco): idea en diseño. Se activa cuando en el grupo aparezcan voluntarios que quieran hacerse cargo.
+
+Nota: Las ideas sin `.md` son solo semillas. Se vuelven actividad cuando el grupo (u otro medio) expresa interés y alguien se ofrece como responsable.
+
+## Cómo se documenta cada actividad
+Cada documento de actividad debe poder circular “solo” (sin contexto adicional). Por eso, en cada `.md` incluimos:
+Template para proponer actividades: [Nueva Actividad](./Nueva%20Actividad.md)
+- Pitch corto + a quién es para
+- Cómo participar (links a grupos)
+- Logística (horario, lugar, qué traer)
+- Roles mínimos y cómo se reparten
+- Finanzas / aportes / rendición (si aplica)
+- Aprendizajes y próximos pasos
