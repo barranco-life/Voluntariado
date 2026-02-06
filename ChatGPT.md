@@ -1,15 +1,14 @@
 # Voluntariado Barranco — ChatGPT Config (interno)
 
-# Voluntariado Barranco — ChatGPT Config (interno)
-
-**Versión:** v1.0.1
+**Versión:** v1.0.3
 
 > **Regla de versionado (obligatoria):**
 > - Cada iteración debe actualizar esta versión.
 > - Cambios directos míos al archivo: subir **minor** (v1.0.1 → v1.0.2…).
 > - Cambios “mayores” (re-estructura, nuevas secciones grandes, cambios de política): los defines tú y/o me pides subir **major**.
 
-> **Propósito de este archivo:** reglas y meta‑instrucciones para producir documentos, posts y mensajes del **Voluntariado Barranco** con consistencia. 
+> **Propósito de este archivo:** reglas y meta‑instrucciones para producir documentos, posts y mensajes del **Voluntariado Barranco** con consistencia.  
+> **Principio operativo:** estas configs son la “información genética” del directorio. Si hay dudas, **desconfía de memorias** y vuelve aquí: esta config debe permitir recrear el estilo, el workflow y los estándares aunque “se olvide todo”.  
 > **Importante:** aquí NO van posts finales ni textos de difusión. Los textos finales viven en `Posts.md` o en documentos/canvas específicos.
 
 ---
@@ -67,6 +66,12 @@
 - **Siempre** entregar mensajes de WhatsApp dentro de un **bloque `md`** para preservar formato al copiar/pegar.
 - Subtítulos de actividades en WhatsApp: usar _italics_ (ej: _Actividad del Voluntariado Barranco_).
 - En WA, incluir links clickeables (Maps, grupos, documento/canvas) cuando el contenido sea interactivo.
+- En WhatsApp, los links van como URL en texto (para que sean clickeables).
+
+### Documentos Markdown (README, .md de actividades)
+- En documentos Markdown, preferir links **dentro del texto** (evitar URLs sueltas).
+- “Casi todo clickeable”: solo dejar URLs visibles cuando sea realmente necesario.
+- Un documento debe circular solo: incluir ubicación (Maps) y links de grupos relevantes cuando invite a acción.
 
 ---
 
@@ -132,3 +137,22 @@ Cuando se documente una actividad (ej: Yoga con Krishna), usar esta estructura (
 - ¿No hay lenguaje inclusivo ni ALL CAPS?
 - ¿No se prometen cosas no confirmadas (horarios, reciclaje, actividades)?
 
+---
+
+## 11) Workflow de iteración con MAYÚSCULAS (rápido y robusto)
+
+- Si en un documento compartido (Xcode/canvas/markdown) aparecen MAYÚSCULAS, asumir que son **marcadores de iteración** (tuyos o míos).
+- Las MAYÚSCULAS **no** son copy final: son notas tipo “marcador rojo” que guían la siguiente pasada.
+- Yo puedo agregar MAYÚSCULAS para pedirte input puntual (ej: `LINK_GOOGLE_FORM_POR_DEFINIR`, `CONFIRMAR HORARIO`, `FALTA LINK`).
+- En la siguiente iteración, resolver/reemplazar las MAYÚSCULAS y dejar el texto limpio.
+- Regla práctica: si me pasas el prompt sin texto pero con un documento compartido y hay MAYÚSCULAS, significa “vamos a iterar”.
+
+## 12) Contenido para migrar a config padre (aplicable a otras iniciativas)
+
+- La idea de “configs como genética”: reglas para recrear outputs (README, docs, posts) aunque se pierda contexto.
+- Workflow de iteración con MAYÚSCULAS (sección 11).
+- Reglas de links en documentos Markdown: links embebidos en texto, minimizar URLs sueltas, priorizar “casi todo clickeable”.
+- Convención de versionado: cambios del asistente → bump minor; reestructuras → bump major solo por pedido.
+- Regla de WhatsApp: entregar mensajes en bloque `md` para preservar formato.
+- Regla de “documentos que circulan solos”: incluir links clave (Maps, grupo) cuando invite a acción.
+- Badges ODS: usar emojis por nivel para diferenciar auto-declarado vs certificado (y subniveles) sin burocracia ni texto extra.
