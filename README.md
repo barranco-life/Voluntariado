@@ -1,51 +1,69 @@
 # Voluntariado Barranco
 
-El Voluntariado Barranco es la capa “co-creada” del Proyecto Cultural Barranco: actividades simples, auto-gestionadas y con acuerdos claros. Aquí documentamos cada actividad para que cualquier voluntario pueda adoptarla, replicarla y mejorarla.
+![Voluntariado Barranco — foto del voluntariado](./assets/README.jpg)
 
-## Enlaces clave
+El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades auto‑gestionadas dentro del [Proyecto Cultural Barranco (Mallasa, La Paz)](https://goo.gl/maps/iWB6R5HZnREL7ALKA). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva%20Actividad.md), otros se suman, y entre todos hacemos que una actividad suceda cuidando el lugar y dejando todo **igual o mejor** — en un espíritu de beneficio mutuo.
 
-- Grupo de WhatsApp (Voluntariado Barranco): https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
-- Ubicación (Google Maps): https://goo.gl/maps/iWB6R5HZnREL7ALKA
-- Visión del voluntariado: [VISION.md](./VISION.md)
-- Proponer una actividad (formulario): _por definir_
+Si te interesa vivir y construir una forma distinta de comunidad — práctica, humana, en armonía con la naturaleza y los animales, hacia adentro y sin excusas externas — esto es para ti. Si esta visión te resuena, puedes leerla en detalle [aquí](./VISION.md).
 
-## Constitución mínima (v0.1)
-
-El Voluntariado Barranco es la capa co-creada del Proyecto Cultural Barranco: personas que se juntan a proponer y sostener actividades simples, con acuerdos claros y cariño por el lugar. Aquí no venimos a “consumir un evento”: venimos a habitarlo por un rato, ayudar a que pase, y dejar el espacio igual o mejor de como lo encontramos.
-
-La autogestión es horizontal, pero no difusa: para cada actividad buscamos responsables auto-denominados (por bloque o por tarea) para que todo sea liviano y coordinado. Si aparece descontrol o falta de respeto, se prioriza el cuidado del grupo y del espacio: se baja la intensidad, se pone orden y, si hace falta, se corta.
-
-Lo económico es flexible (gratis, aporte sugerido o precio). Lo importante es la transparencia: si hay caja o ingresos, se registran y se rinden cuentas; y si algo se rompe, se reporta y se resuelve con lo reunido o con un acuerdo explícito. El Barranco es la casa: cuidarlo y sostenerlo también es parte del espíritu.
+Para participar entra al [grupo de WhatsApp](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm), preséntate, y súmate a una actividad o [propón una nueva](#proponer-una-actividad)!
 
 ## Actividades
 
-Actividades documentadas (listas para circular). Si quieres proponer una nueva, usa el formulario (arriba) y elige un primer responsable — lo demás lo armamos en comunidad.
+Las actividades son la razón de ser del voluntariado: son nuestra “moneda”. Cada actividad es una oportunidad para encontrarnos, cuidar el Barranco, aprender, celebrar la vida y demostrar que la autogestión sí puede funcionar con alegría y responsabilidad.
 
-- [Año Nuevo en el Barranco: Voluntariado por un día (piloto)](./Actividades/A%C3%B1o%20Nuevo.md)
-  Primer piloto del voluntariado: celebramos Año Nuevo como comunidad de voluntarios (sin dinámica de “clientes/empleados”), con acuerdos de convivencia, apthapis, roles livianos y un reporte transparente del experimento.
+### En curso
 
-- [Yoga Barranco 🪷 con Krishna](./Actividades/Yoga.md) _Actividad del Voluntariado Barranco_
-  Clases regulares de **Hatha Yoga – Iyengar** (Martes y Jueves 10am): preparación simple del espacio + aporte sugerido + apoyo al Proyecto Cultural Barranco y a la caja del voluntariado.
+**Yoga Barranco 🪷 con Krishna**
 
-- [Apthapi del Voluntariado Barranco](./Actividades/Apthapi.md) _Actividad del Voluntariado Barranco_
-  Encuentro (idealmente mensual) después del yoga para compartir, cocinar/comer tipo apthapi y dejar el espacio listo para la apertura habitual del Barranco.
+Clases regulares de Hatha Yoga - Iyengar (martes y jueves 10am): preparación simple del espacio + aporte sugerido + apoyo al Proyecto Cultural Barranco y a la caja del voluntariado. [Más info](./Actividades/Yoga.md)
 
-Semillas (aún sin documento):
+**Apthapi del Voluntariado Barranco**
 
-- Cine comunitario (Cinema Barranco): idea en diseño. Se activa cuando en el grupo aparezcan voluntarios que quieran hacerse cargo.
-- Grupo de estudio (Mahabharata / Bhagavad Gita): idea en diseño. Se activa cuando haya un responsable y un horario acordado.
-- Jornada de jardinería: idea en diseño. Se activa cuando el grupo defina fecha y responsables.
+Encuentro mensual después del yoga (sábado desde las 11:30am) para compartir, cocinar/comer tipo apthapi y dejar el espacio listo para la apertura habitual del Barranco. A veces también se suman trabajos puntuales (jardín, ordenar, arreglar algo, etc.). [Más info](./Actividades/Apthapi.md).
 
-Nota: Las ideas sin `.md` son solo semillas. Se vuelven actividad cuando el grupo (u otro medio) expresa interés y alguien se ofrece como responsable.
+**Grupo de Estudio de Textos Hindúes**
 
-## Cómo se documenta cada actividad
-Template para proponer actividades: [Nueva Actividad](./Actividades/Nueva%20Actividad.md)
+Encuentro semanal de lectura y conversación (empezamos con Mahabharata y Bhagavad Gita): traer un texto común, leer un fragmento, reflexionar y aterrizarlo a la vida diaria. Facilitado por un voluntario/a (encuadre liviano: sostener el ritmo y el espacio). [Más info](./Actividades/GrupoDeEstudioDeTextosHind%C3%BAes.md).
 
-- Lo esencial (1–2 párrafos)
-- Cómo participar (links a grupos)
-- Logística (horario, lugar, qué traer)
-- Roles mínimos y cómo se reparten
-- Finanzas / aportes / rendición (si aplica)
-- Aprendizajes y próximos pasos
+### Pasadas
 
-Nota: cada `.md` es el documento “siempre actualizado” de esa actividad (este repo es la fuente de verdad). Si compartes por WhatsApp, comparte el link de GitHub a ese archivo.
+**Año Nuevo en el Barranco: Voluntariado por un día**
+
+**Primer piloto oficial** del voluntariado: celebramos Año Nuevo como comunidad (sin dinámica de “clientes/empleados”), con acuerdos de convivencia, apthapis, roles livianos y un reporte transparente del experimento. [Más info](./Actividades/A%C3%B1o%20Nuevo.md).
+
+### Más ideas
+
+Estas ideas están aquí para inspirar: aún no tienen documentación, pero se pueden activar en cualquier momento si aparece un grupo que las sostenga.
+
+**Cine al aire libre**
+
+Una noche simple: quienes sostienen la actividad eligen una película, montan proyector/pantalla y disfrutan.
+
+**Celebraciones (cumpleaños, aniversarios, etc.)**
+
+Celebraciones en comunidad, con acuerdos claros y espíritu de cuidado. Casi siempre incluye un [apthapi](./Actividades/Apthapi.md).
+
+**Otros grupos de estudio (ideas)**
+
+Círculos de lectura y conversación sobre otras áreas (filosofía, creatividad, comunidad, naturaleza, etc.), sostenidos por quien proponga.
+
+**Jornadas de jardinería**
+
+Un bloque de cuidado del jardín para mantenerlo vivo y hermoso (limpieza, poda ligera, riego, compost, etc.). Puede ser mensual o cuando haga falta. Lo importante es hacerlo amable, disfrutable y sostenible. Especialmente útil en época seca (abril a noviembre).
+
+## Proponer una actividad
+
+Si tienes una idea, envíala aunque sea cruda (y puede ser anónima). El voluntariado existe para que esas ideas se vuelvan realidad, orgánicamente.
+
+- [Proponer una actividad](LINK_GOOGLE_FORM)
+- [Nueva Actividad](./Actividades/Nueva%20Actividad.md) — template público para documentar actividades (incluye prompt para darle el formato con tu IA favorita).
+
+## Proyecto Cultural Barranco
+
+- [Ubicación en Google Maps](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [@barranco.life en Instagram](https://www.instagram.com/barranco.life/)
+
+---
+
+https://github.com/barranco-life/Voluntariado/blob/main/README.md
