@@ -1,4 +1,4 @@
-[Inicio](../README.md) >
+[Voluntariado Barranco](../) >
 
 # Año Nuevo en el Barranco: Voluntariado por un Día
 
@@ -15,7 +15,7 @@
 - Ubicación (Google Maps): https://goo.gl/maps/iWB6R5HZnREL7ALKA
 
 **Documento siempre actualizado (GitHub):**
-- https://github.com/barranco-life/Voluntariado/blob/main/Actividades/A%C3%B1o%20Nuevo.md
+- https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Año_Nuevo.md
 
 ---
 
@@ -246,4 +246,4 @@ Esto es un ensayo de cómo se ve una comunidad que se auto‑organiza con concie
 
 - **v1.0.0** — Unificación de Runbook + Post‑mortem del piloto (con links a los canvas originales).
 
-https://github.com/barranco-life/Voluntariado/blob/main/Actividades/A%C3%B1o%20Nuevo.md
+https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Año_Nuevo.md

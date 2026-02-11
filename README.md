@@ -2,7 +2,7 @@
 
 ![Voluntariado Barranco — foto del voluntariado](./assets/README.jpg)
 
-El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades auto‑gestionadas dentro del Proyecto Cultural Barranco (Mallasa, La Paz). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva%20Actividad.md), otros se suman, y entre todos hacemos que una actividad suceda cuidando el lugar y dejando todo **igual o mejor** — en un espíritu de beneficio mutuo.
+El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades auto‑gestionadas dentro del Proyecto Cultural Barranco (Mallasa, La Paz). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva_Actividad.md), otros se suman, y entre todos hacemos que una actividad suceda cuidando el lugar y dejando todo **igual o mejor** — en un espíritu de beneficio mutuo.
 
 Si te interesa vivir y construir una forma distinta de comunidad — práctica, humana, en armonía con la naturaleza y los animales, hacia adentro y sin excusas externas — esto es para ti. Si esta visión te resuena, puedes leerla en detalle [aquí](./VISION.md).
 
@@ -26,7 +26,7 @@ Encuentro mensual después del yoga (sábado desde las 11:30am) para compartir, 
 
 **Año Nuevo en el Barranco: Voluntariado por un día**
 
-**Primer piloto oficial** del voluntariado: celebramos Año Nuevo como comunidad (sin dinámica de “clientes/empleados”), con acuerdos de convivencia, apthapis, roles livianos y un reporte transparente del experimento. [Más info](./Actividades/A%C3%B1o%20Nuevo.md)
+**Primer piloto oficial** del voluntariado: celebramos Año Nuevo como comunidad (sin dinámica de “clientes/empleados”), con acuerdos de convivencia, apthapis, roles livianos y un reporte transparente del experimento. [Más info](./Actividades/Año_Nuevo.md)
 
 ### Más ideas
 
@@ -52,7 +52,7 @@ Un bloque de cuidado del jardín para mantenerlo vivo y hermoso (limpieza, poda 
 
 Si tienes una idea, envíala aunque sea cruda. El voluntariado existe para que esas ideas se vuelvan realidad, orgánicamente.
 
-Próximamente podrás proponer actividades con un formulario. Mientras tanto, si quieres ver cómo documentamos las actividades en curso (y proponer una con el mismo formato), usa el template de [Nueva Actividad](./Actividades/Nueva%20Actividad.md) (incluye un prompt para generar el documento con tu IA favorita).
+Próximamente podrás proponer actividades con un formulario. Mientras tanto, si quieres ver cómo documentamos las actividades en curso (y proponer una con el mismo formato), usa el template de [Nueva Actividad](./Actividades/Nueva_Actividad.md) (incluye un prompt para generar el documento con tu IA favorita).
 
 ## Proyecto Cultural Barranco
 

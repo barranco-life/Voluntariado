@@ -1,4 +1,4 @@
-[Inicio](../README.md) >
+[Voluntariado Barranco](../) >
 
 # NOMBRE DE LA ACTIVIDAD
 
