@@ -1,3 +1,5 @@
+[Inicio](../README.md) >
+
 # Apthapi del Voluntariado Barranco 🍲
 
 _Actividad del Voluntariado Barranco_
@@ -12,8 +14,8 @@ _Actividad del Voluntariado Barranco_
 
 ## Links
 
-- Grupo Voluntariado Barranco (WhatsApp): https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
-- Ubicación (Google Maps): https://goo.gl/maps/iWB6R5HZnREL7ALKA
+- [Grupo de WhatsApp — Voluntariado Barranco](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
+- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
 
 ---
 
@@ -45,7 +47,7 @@ La idea es que sea una actividad simple y adoptable: funciona con 5 personas y t
   - **12:00pm → 2:00pm** — apthapi + conversación + tareas del bloque
   - **2:00pm → 4:20pm** — ventana flexible: cierre suave + dejar listo para abrir + tareas + disfrutar el lugar (puede empezar desde **3:00pm**)
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224
-- **Google Maps:** https://goo.gl/maps/iWB6R5HZnREL7ALKA
+- **Google Maps:** [Abrir ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
 
 ---
 
@@ -123,3 +125,8 @@ Regla: horizontal, pero con roles claros cuando hace falta.
 
 **Changelog:**
 - **v1.0.0** — Primera versión del documento de actividad.
+
+---
+
+## Documento siempre actualizado
+https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Apthapi.md

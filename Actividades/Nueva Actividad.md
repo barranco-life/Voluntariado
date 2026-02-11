@@ -1,13 +1,4 @@
-
-
-<!--
-Template de Actividad — Voluntariado Barranco
-
-- El subtítulo es fijo: _Actividad del Voluntariado Barranco_ (no cambiar).
-- Imágenes: guardar en ./assets/ (dentro del directorio de la actividad) y exportar a 1600px de ancho.
-- Links: preferir links dentro del texto (Markdown) en vez de URLs sueltas.
-- Si en el futuro validamos con GitHub Actions, este template busca ser “checkeable” (campos claros, listas cortas).
--->
+[Inicio](../README.md) >
 
 # NOMBRE DE LA ACTIVIDAD
 

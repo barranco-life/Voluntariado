@@ -1,3 +1,5 @@
+[Inicio](../README.md) >
+
 # Yoga Barranco 🪷 con Krishna
 
 _Actividad del Voluntariado Barranco_
@@ -12,10 +14,11 @@ _Actividad del Voluntariado Barranco_
 
 ## Links
 
-- Grupo Voluntariado Barranco (WhatsApp): https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
-- Grupo Yoga Barranco (WhatsApp, para más info y otras clases): https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15
-- Ubicación (Google Maps): https://goo.gl/maps/iWB6R5HZnREL7ALKA
-- Referencia (canvas público): https://chatgpt.com/canvas/shared/695c6535e67881919baa3d1c82264bb7
+- [Grupo Voluntariado Barranco (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
+- [Grupo Yoga Barranco (WhatsApp, para más info y otras clases)](https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15)
+- [Ubicación (Google Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Documento (siempre actualizado en GitHub)](https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Yoga.md)
+- [Referencia histórica (canvas público)](https://chatgpt.com/canvas/shared/695c6535e67881919baa3d1c82264bb7)
 
 ---
 
@@ -40,9 +43,9 @@ Una práctica de yoga guiada por Krishna, y a la vez una actividad del Voluntari
 - **Días:** martes y jueves
 - **Hora:** 10:00am
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224
-- **Google Maps:** https://goo.gl/maps/iWB6R5HZnREL7ALKA
+- **Google Maps:** [ver ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
 
-> Nota: sábados y domingos también hay clases con otras maestras. Para más info: grupo de Yoga Barranco.
+> Nota: sábados y domingos también hay clases con otras maestras. Para más info: [grupo de Yoga Barranco](https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15).
 
 ---
 
@@ -108,4 +111,7 @@ Una práctica de yoga guiada por Krishna, y a la vez una actividad del Voluntari
 
 **Changelog:**
 - **v1.1.0** — Reorganización completa al template ("Lo esencial" + secciones 1–8), sin cambiar los datos de la actividad.
+- **v1.1.0** — El enlace final y el link principal apuntan a GitHub como fuente de verdad; el canvas queda como referencia histórica.
 - **v1.0.0** — Documento inicial de actividad (runbook).
+
+https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Yoga.md

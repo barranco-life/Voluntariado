@@ -1,3 +1,5 @@
+[Inicio](../README.md) >
+
 # Año Nuevo en el Barranco: Voluntariado por un Día
 
 **Documento unificado (Runbook + Post‑mortem)**  
@@ -11,6 +13,9 @@
 **Links canónicos (para circular este documento):**
 - Grupo Voluntariado Barranco (WhatsApp): https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
 - Ubicación (Google Maps): https://goo.gl/maps/iWB6R5HZnREL7ALKA
+
+**Documento siempre actualizado (GitHub):**
+- https://github.com/barranco-life/Voluntariado/blob/main/Actividades/A%C3%B1o%20Nuevo.md
 
 ---
 
@@ -120,7 +125,7 @@ Este es el esqueleto. Lo demás se decide en el grupo y/o en el momento.
 - Manzanilla, muña, cedrón, jengibre, menta, canela.
 
 **Importante:** trae tu plato, vaso, cubiertos y tu tomatodo.  
-Habrá agua gratuita para recargar en botellones en barra.
+Habrá agua para recargar en botellones en barra.
 
 ---
 
@@ -241,3 +246,4 @@ Esto es un ensayo de cómo se ve una comunidad que se auto‑organiza con concie
 
 - **v1.0.0** — Unificación de Runbook + Post‑mortem del piloto (con links a los canvas originales).
 
+https://github.com/barranco-life/Voluntariado/blob/main/Actividades/A%C3%B1o%20Nuevo.md
