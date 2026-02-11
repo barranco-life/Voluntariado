@@ -1,0 +1,39 @@
+title: Voluntariado Barranco
+
+remote_theme: pages-themes/tactile@v0.2.0
+
+markdown: kramdown
+url: "https://barranco-life.github.io"
+baseurl: "/Voluntariado"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+# Allow Markdown files without front matter to be processed by Jekyll
+optional_front_matter:
+  remove_originals: false
+
+# Rewrite relative links like ./Actividades/Yoga.md -> /Actividades/Yoga.html
+relative_links:
+  enabled: true
+  collections: true
+  static: true
+
+# Treat README.md as index (useful for folders)
+readme_index:
+  enabled: true
+  remove_originals: false
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - vendor
