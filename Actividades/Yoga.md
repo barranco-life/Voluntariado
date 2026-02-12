@@ -106,9 +106,6 @@ Una práctica de yoga guiada por Krishna, y a la vez una actividad del Voluntari
 
 ## 8) Notas y cambios
 
-**Notas:**
-- El nombre oficial/legal es **Proyecto Cultural Barranco**.
-
 **Changelog:**
 - **v1.1.0** — Reorganización completa al template ("Lo esencial" + secciones 1–8), sin cambiar los datos de la actividad.
 - **v1.1.0** — El enlace final y el link principal apuntan a GitHub como fuente de verdad; el canvas queda como referencia histórica.

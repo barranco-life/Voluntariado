@@ -2,7 +2,7 @@
 
 ![Voluntariado Barranco — foto del voluntariado](./assets/README.jpg)
 
-El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades auto‑gestionadas dentro del Proyecto Cultural Barranco (Mallasa, La Paz). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva_Actividad.md), otros se suman, y entre todos hacemos que una actividad suceda cuidando el lugar y dejando todo **igual o mejor** — en un espíritu de beneficio mutuo.
+El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades colaborativas y auto‑gestionadas dentro del Proyecto Cultural Barranco (Mallasa, La Paz). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva_Actividad.md), otros se suman, y entre todos hacemos que una actividad suceda cuidando el lugar y dejando todo **igual o mejor** — en un espíritu de beneficio mutuo.
 
 Si te interesa vivir y construir una forma distinta de comunidad — práctica, humana, en armonía con la naturaleza y los animales, hacia adentro y sin excusas externas — esto es para ti. Si esta visión te resuena, puedes leerla en detalle [aquí](./VISION.md).
 
@@ -16,7 +16,7 @@ Las actividades son la razón de ser del voluntariado: son nuestra “moneda”.
 
 **Yoga Barranco 🪷 con Krishna**
 
-Clases regulares de Hatha Yoga - Iyengar (martes y jueves 10am): preparación simple del espacio + aporte sugerido + apoyo al Proyecto Cultural Barranco y a la caja del voluntariado. [Más info](./Actividades/Yoga.md)
+Clases regulares de Hatha Yoga – Iyengar (martes y jueves 10am): una actividad que fortalece al voluntario organizador, aporta a la caja del voluntariado y apoya al Proyecto Cultural Barranco — un buen ejemplo de cómo diseñar actividades en beneficio mutuo. [Más info](./Actividades/Yoga.md)
 
 **Apthapi del Voluntariado Barranco**
 
