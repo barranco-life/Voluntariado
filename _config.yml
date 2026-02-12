@@ -1,0 +1,25 @@
+title: ""
+description: ""
+
+# Theme (el que veníamos usando y se veía bien)
+theme: jekyll-theme-primer
+
+markdown: kramdown
+
+# Para que no aparezca el bloque de “downloads”
+show_downloads: false
+
+# Evita que el theme muestre metadata de repo en el header (y reduce chrome)
+github:
+  is_project_page: false
+  is_user_page: false
+
+# Opcional pero sano para rutas en Pages
+url: "https://barranco-life.github.io"
+baseurl: "/Voluntariado"
+
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
