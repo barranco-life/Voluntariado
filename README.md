@@ -22,6 +22,14 @@ Clases regulares de Hatha Yoga – Iyengar (martes y jueves 10am): una actividad
 
 Encuentro mensual después del yoga (sábado desde las 11:30am) para compartir, cocinar/comer tipo apthapi y dejar el espacio listo para la apertura habitual del Barranco. A veces también se suman trabajos puntuales (jardín, ordenar, arreglar algo, etc.). [Más info](./Actividades/Apthapi.md)
 
+### Propuestas
+
+Estas son actividades ya documentadas, listas para votarse y activarse. Si no hay suficientes confirmados una semana, simplemente se reprograman.
+
+**Círculo de Estudio — Textos de Sabiduría Hindú**
+
+Encuentro semanal de lectura y conversación (4–5pm, día a votarse entre martes o jueves). Sostenido por facilitador +1, con barra reducida y aportes para cubrir el siguiente texto y apoyar la caja del voluntariado. [Más info](./Actividades/Circulo_de_Estudio_Hindu.md)
+
 ### Pasadas
 
 **Año Nuevo en el Barranco: Voluntariado por un día**
