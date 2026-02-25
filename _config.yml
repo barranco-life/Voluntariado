@@ -16,7 +16,7 @@ github:
 
 # Opcional pero sano para rutas en Pages
 url: "https://barranco-life.github.io"
-baseurl: "/Voluntariado"
+baseurl: ""
 
 exclude:
   - node_modules
