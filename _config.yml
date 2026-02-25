@@ -15,7 +15,7 @@ github:
   is_user_page: false
 
 # Opcional pero sano para rutas en Pages
-url: "https://barranco-life.github.io"
+url: "https://voluntariado.barranco.life"
 baseurl: ""
 
 exclude:
