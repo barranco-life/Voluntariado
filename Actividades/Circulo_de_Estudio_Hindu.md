@@ -1,8 +1,12 @@
-[Voluntariado Barranco](../) >
+[Voluntariado Barranco](../) > Círculo de Estudio
 
 # Círculo de Estudio — Textos de Sabiduría Hindú 📚🕉️
 
 _Actividad del Voluntariado Barranco_
+
+> Verdecito lo que salga.
+> Algo en ti ya sabe brotar.
+> Aquí solo lo recordamos.
 
 ---
 
@@ -12,10 +16,10 @@ _Actividad del Voluntariado Barranco_
 - **Estado:** propuesta (se activa cuando haya mínimos)
 - **Responsable(s):** Krishna (facilitador) + 1 co‑sostenedor (por definir)
 
-## Links
+## Enlaces
 
-- Grupo de WhatsApp — Voluntariado Barranco: https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
-- Ubicación (Google Maps) — Proyecto Cultural Barranco: https://goo.gl/maps/iWB6R5HZnREL7ALKA
+- [Grupo del Voluntariado (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
+- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
 
 ---
 
@@ -47,7 +51,7 @@ Comenzamos con textos clásicos (los primeros dos están disponibles por donaci�
 - **Frecuencia:** semanal.
 - **Hora:** 4:00–5:00pm.
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224.
-- **Google Maps:** https://goo.gl/maps/iWB6R5HZnREL7ALKA
+- **Google Maps:** [Abrir ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
 
 ---
 
@@ -81,6 +85,7 @@ Para no organizar en vano, usamos **dos pasos**:
 
 - **Aporte sugerido por sesión:** Bs ___
 - **Opción mensual (más barata):** Bs ___
+*(La opción mensual es para quien quiere sostener continuidad, incluso si no puede venir siempre.)*
 
 **Prioridad de uso de fondos:**
 1) cubrir el **siguiente texto** (si hace falta)

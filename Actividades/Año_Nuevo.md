@@ -1,27 +1,33 @@
-[Voluntariado Barranco](../) >
+[Voluntariado Barranco](../) > Año Nuevo
 
 # Año Nuevo en el Barranco: Voluntariado por un Día
 
-**Documento unificado (Runbook + Post‑mortem)**  
-**Versión:** v1.0.0  
-**Estado:** piloto realizado (31/12 → 01/01). Documento vivo para futuras ediciones.
+_Actividad del Voluntariado Barranco_
 
-**Links de referencia (canvas públicos):**
-- Organización (borrador original): https://chatgpt.com/canvas/shared/6952ba089210819180f8abd8cb90eee5
-- Reporte del piloto: https://chatgpt.com/canvas/shared/695bffe656488191b4e4e5f15e6fec9b
+> Verdecito lo que salga.
+> Algo en ti ya sabe brotar.
+> Aquí solo lo recordamos.
 
-**Links canónicos (para circular este documento):**
-- Grupo Voluntariado Barranco (WhatsApp): https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
-- Ubicación (Google Maps): https://goo.gl/maps/iWB6R5HZnREL7ALKA
+## Meta
 
-**Documento siempre actualizado (GitHub):**
-- https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Año_Nuevo.md
+- **Versión:** v1.0.0
+- **Estado:** piloto realizado (31/12/2025 → 01/01/2026). Documento vivo para futuras ediciones.
+
+## Enlaces
+
+- [Documento siempre actualizado (GitHub)](https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Año_Nuevo.md)
+- [Grupo del Voluntariado (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
+- [Ubicación (Google Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+
+**Referencias históricas (canvas):**
+- [Organización (borrador original)](https://chatgpt.com/canvas/shared/6952ba089210819180f8abd8cb90eee5)
+- [Reporte del piloto](https://chatgpt.com/canvas/shared/695bffe656488191b4e4e5f15e6fec9b)
 
 ---
 
-## TL;DR
+## 0) Lo esencial
 
-Una celebración en **comunidad consciente** en el **Proyecto Cultural Barranco**, bajo una idea simple: **co‑creamos el evento entre todos**.
+Una celebración en **comunidad consciente** en el **Proyecto Cultural Barranco**, bajo una idea simple: **co‑creamos el día entre todos**.
 
 - No hay “clientes” ni “empleados”: **todas las personas son voluntarias por un día**.
 - Puedes llegar e irte cuando gustes. Nadie está obligado a quedarse todo el evento.
