@@ -68,6 +68,17 @@ Escribe con un tono poético, cálido y esencial: cada frase debe sentirse como 
 - Principio madre: **dejar todo igual o mejor**.
 
 ---
+- El **Encuentro Nacional 4/20²⁶ 🌿** debe entenderse como una actividad especial recurrente / subcomunidad nacida en Proyecto Cultural Barranco, no como una actividad regular cualquiera.
+
+
+## 1.1) Relación con el Encuentro Nacional 4/20²⁶ 🌿
+
+- El 4/20 dialoga profundamente con el espíritu de Voluntariado Barranco, pero su documentación principal vive en su propio repo/sitio.
+- En textos públicos del Voluntariado Barranco, presentar el 4/20 como **actividad especial recurrente** nacida en Proyecto Cultural Barranco y hoy abierta como red de espacios anfitriones, participación cultural y documentación pública.
+- Una de las tesis centrales a preservar es que las experiencias y aprendizajes acumulados en los encuentros 4/20 de años anteriores ayudaron a inspirar el propio Voluntariado Barranco: mostraron que sí era posible una comunidad espontánea, diversa, colaborativa y cuidadosa del espacio.
+- No duplicar dentro del repo del voluntariado la documentación que ya vive en el repo 420 (`SPACES`, `PARTICIPATE`, `PETITION`, `HISTORY`, etc.). Enlazarla.
+- Cuando el contexto sea público, enlazar al sitio del encuentro, no al repo técnico: **https://420.barranco.life**
+- Esta relación debe presentarse como filosófica, cultural y parcialmente histórica, no solo operativa.
 
 ## 2) Reglas operativas que deben reflejarse en documentos
 
@@ -126,6 +137,7 @@ Escribe con un tono poético, cálido y esencial: cada frase debe sentirse como 
 - Voluntariado Barranco (WhatsApp): https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm
 - Yoga Barranco (WhatsApp): https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15
 - Fork Voluntariado Barranco (GitHub): https://github.com/barranco-life/Voluntariado/fork
+- Encuentro Nacional 4/20²⁶ 🌿 (sitio): https://420.barranco.life
 
 > Regla: si un texto invita a “sumarse”, debe incluir el link del grupo correspondiente.
 
@@ -190,6 +202,7 @@ Cuando se documente una actividad (ej: Yoga con Krishna), usar esta estructura (
 ## 10) Checklist editorial (antes de entregar textos)
 
 - ¿Dice **Proyecto Cultural Barranco** (no “espacio”)?
+- ¿Si se menciona el 4/20, queda claro que es una actividad especial recurrente del ecosistema y que su sitio público es https://420.barranco.life?
 - ¿Usa “en el Barranco” (no “en la quebrada”)?
 - ¿WA viene dentro de bloque `md` y subtítulo en _italics_?
 - ¿Incluye links pertinentes (Maps, WA, documento) si invita a acción?
@@ -231,3 +244,4 @@ Cuando se documente una actividad (ej: Yoga con Krishna), usar esta estructura (
 - Regla de “documentos que circulan solos”: incluir links clave (Maps, grupo) cuando invite a acción.
 - Estándar de imágenes: 1600px + `assets/` canónico.
 - Regla “un archivo por pasada” cuando haya riesgo de que cambios no se apliquen.
+- Regla de proyectos hermanos con sitio propio: enlazar al sitio público y evitar duplicar documentación viva que ya tiene repo propio.

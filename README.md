@@ -22,6 +22,10 @@ Clases regulares de Hatha Yoga – Iyengar (martes y jueves 10am): una práctica
 
 Encuentro mensual después del yoga (sábado desde las 11:30am) para compartir, cocinar/comer tipo apthapi y dejar el espacio listo para la apertura habitual del Barranco. Trabajo y descanso en la misma mesa: manos, sol, hamacas, jardín… verdecito lo que salga. [Más info](./Actividades/Apthapi.md)
 
+**Encuentro Nacional 4/20²⁶ 🌿**
+
+Actividad especial recurrente nacida en Proyecto Cultural Barranco y hoy abierta como red de espacios anfitriones, participación cultural y documentación pública. Busca visibilizar la comunidad 4/20 de una manera más madura, libre y responsable, con prudencia legal, ingreso y participación libre, y aprendizaje abierto. Además, las experiencias y aprendizajes acumulados en los encuentros 4/20 de años anteriores fueron una de las inspiraciones reales que ayudaron a dar forma al Voluntariado Barranco: mostraron que sí era posible una comunidad espontánea, diversa, colaborativa y cuidadosa del espacio. [Más info](https://420.barranco.life)
+
 ### Propuestas
 
 Estas son actividades ya documentadas, listas para votarse y activarse. Primero se elige el día; luego se confirma. Si no hay suficientes confirmados, se reprograma.
