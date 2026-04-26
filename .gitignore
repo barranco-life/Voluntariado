@@ -1,1 +1,7 @@
 .DS_Store
+
+# AI config files — never propagate to public repos
+CLAUDE.md
+ChatGPT.md
+AGENTS.md
+*.private.md
