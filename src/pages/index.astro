@@ -1,0 +1,9 @@
+---
+// The home is the repo's README.md, as on GitHub.
+import { getEntry } from 'astro:content';
+import MarkdownPage from '../components/MarkdownPage.astro';
+
+const page = await getEntry('pages', 'README.md');
+if (!page) throw new Error('README.md is missing');
+---
+<MarkdownPage page={page} />
