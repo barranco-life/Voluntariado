@@ -4,7 +4,6 @@
 // The URL contract lives in ER (Projects/SitesRefresh/Voluntariado_URLs.md).
 import { defineConfig } from 'astro/config';
 import { satteri } from '@astrojs/markdown-satteri';
-import sitemap from '@astrojs/sitemap';
 import { jekyllLinks } from './src/lib/jekyll-links.mjs';
 import { repoFiles } from './src/lib/repo-files.mjs';
 
@@ -17,9 +16,6 @@ export default defineConfig({
   markdown: {
     processor: satteri({ mdastPlugins: [jekyllLinks] }),
   },
-  integrations: [
-    // The 420 copy is canonical at 420.barranco.life, so it stays out of this sitemap.
-    sitemap({ filter: (page) => !page.endsWith('/404.html') && !page.includes('/Actividades/420/') }),
-    repoFiles(),
-  ],
+  // The sitemap is src/pages/sitemap.xml.ts: @astrojs/sitemap drops the .html of 'preserve' URLs.
+  integrations: [repoFiles()],
 });
