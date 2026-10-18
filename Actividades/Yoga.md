@@ -32,7 +32,7 @@ _Actividad del Voluntariado Barranco_
 
 - Yoga semanal en el **Proyecto Cultural Barranco**.
 - **Krishna (Hatha Yoga – Iyengar):** martes, jueves y sábados a las 9am, temporada del 1 de octubre al 5 de noviembre de 2026.
-- **Aporte sugerido: 40 Bs** (según posibilidades). **10 Bs** van a la **caja del voluntariado**.
+- **Aporte sugerido: 40 Bs** (según posibilidades).
 - Barra reducida disponible: consumir apoya al Barranco.
 - Se sostiene en modo comunidad: preparamos y dejamos el lugar impecable entre todos.
 
@@ -60,7 +60,7 @@ Dentro del voluntariado, hoy sostenemos las clases de Krishna (Hatha Yoga – Iy
 ## 3) Cómo sumarte
 
 1. Llega unos minutos antes para acomodarte y ayudar con una o dos tareas simples.
-2. Aporta lo que puedas (sugerido 40 Bs; de eso 10 Bs van a la caja del voluntariado).
+2. Aporta lo que puedas (sugerido 40 Bs).
 3. Si quieres enterarte de más actividades del voluntariado: entra al grupo y preséntate.
 
 ---
@@ -90,8 +90,6 @@ Dentro del voluntariado, hoy sostenemos las clases de Krishna (Hatha Yoga – Iy
 
 - **Modalidad:** aporte sugerido.
 - **Aporte sugerido:** 40 Bs (según posibilidades).
-- **Caja del voluntariado:** 10 Bs por persona.
-- **Objetivo actual de la caja:** juntar para pagar al **jardinero** del Barranco (200 Bs) de manera regular. Un jardín bien cuidado atrae más alumnos y crea un círculo virtuoso.
 
 **Barra reducida (apoyo al Barranco):** helados, kombuchas y poco más.
 - Se invita a apoyar consumiendo en barra: ayuda a cubrir costos de mantenimiento y operación del Barranco.
@@ -114,7 +112,7 @@ Dentro del voluntariado, hoy sostenemos las clases de Krishna (Hatha Yoga – Iy
 ## 8) Notas y cambios
 
 **Changelog:**
-- **v1.3.0** — Temporada 2026 con Krishna: martes, jueves y sábados a las 9am, del 1 de octubre al 5 de noviembre. Las clases de Jyoti de los sábados quedan en pausa. Nuevo enlace de Google Maps.
+- **v1.3.0** — Temporada 2026 con Krishna: martes, jueves y sábados a las 9am, del 1 de octubre al 5 de noviembre. Las clases de Jyoti de los sábados quedan en pausa. Se quita el detalle de a dónde va el aporte. Nuevo enlace de Google Maps.
 - **v1.2.0** — Se integra la clase de Jyoti (Hatha Yoga) de los sábados 10am; el aporte sugerido y aporte a caja se unifican para ambas clases.
 - **v1.1.0** — Reorganización al template (secciones 0–8) y links canónicos: GitHub como fuente de verdad; canvas como referencia histórica.
 - **v1.0.0** — Documento inicial de actividad (runbook).

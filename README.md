@@ -18,7 +18,7 @@ Las actividades son nuestra “moneda”: excusas nobles para encontrarnos, cuid
 
 **Yoga Barranco 🪷 con Krishna**
 
-Clases regulares de Hatha Yoga – Iyengar (temporada 2026: martes, jueves y sábados a las 9am, del 1 de octubre al 5 de noviembre): una práctica precisa y terapéutica que fortalece al facilitador, aporta a la caja del voluntariado y apoya al Proyecto Cultural Barranco. Se llega, se ayuda un poco, se practica, y se deja todo en orden. [Más info](./Actividades/Yoga.md)
+Clases regulares de Hatha Yoga – Iyengar (temporada 2026: martes, jueves y sábados a las 9am, del 1 de octubre al 5 de noviembre): una práctica precisa y terapéutica que fortalece al facilitador y apoya al Proyecto Cultural Barranco. Se llega, se ayuda un poco, se practica, y se deja todo en orden. [Más info](./Actividades/Yoga.md)
 
 **Apthapi del Voluntariado Barranco**
 
