@@ -1,7 +1,7 @@
 ---
 import { render, type CollectionEntry } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { pathFor, titleFor, descriptionFor, imageFor, sourceUrl, langFor } from '../lib/page-meta';
+import { canonicalFor, pathFor, titleFor, descriptionFor, imageFor, sourceUrl, langFor } from '../lib/page-meta';
 
 interface Props { page: CollectionEntry<'pages'> }
 const { page } = Astro.props;
@@ -11,6 +11,7 @@ const body = page.body ?? '';
 <Base
   lang={langFor(page.id)}
   path={pathFor(page.id)}
+  canonical={canonicalFor(page.id, Astro.site!)}
   title={titleFor(body)}
   description={descriptionFor(body)}
   image={imageFor(page.id, body)}

@@ -19,6 +19,16 @@ export function sourceUrl(id: string): string {
   return `${REPO}/blob/main/${id}`;
 }
 
+/**
+ * The 420 pages are a copy of https://420.barranco.life, which serves the Spanish pages at its root
+ * (es/HISTORY.md -> /HISTORY.html). Point search engines there; elsewhere the page is canonical.
+ */
+export function canonicalFor(id: string, site: URL): string {
+  if (!id.startsWith(SUBMODULE)) return new URL(pathFor(id), site).href;
+  const rest = id.slice(SUBMODULE.length).replace(/^es\//, '');
+  return 'https://420.barranco.life/' + (isReadme(rest) ? '' : rest.replace(/\.md$/i, '.html'));
+}
+
 /** The 420 repo's own README is in English; everything else is Spanish. */
 export function langFor(id: string): string {
   return id === `${SUBMODULE}README.md` ? 'en' : 'es';

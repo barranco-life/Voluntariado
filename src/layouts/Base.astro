@@ -8,13 +8,15 @@ interface Props {
   title: string;
   description: string;
   image?: string;
+  /** Canonical URL when it is not this page (the 420 copy points to 420.barranco.life). */
+  canonical?: string;
   /** Where the page's Markdown can be read and improved. */
   source?: string;
   home?: boolean;
 }
 const { lang = 'es', path, title, description, image = '/assets/README.jpg', source, home = false } = Astro.props;
 const site = Astro.site!;
-const canonical = new URL(path, site).href;
+const canonical = Astro.props.canonical ?? new URL(path, site).href;
 const fullTitle = home ? SITE_NAME : `${title} · ${SITE_NAME}`;
 const t = lang === 'en'
   ? { skip: 'Skip to content', theme: 'Dark theme', hint: 'Switch between light and dark', open: 'This site is open source.', improve: 'Improve this page' }

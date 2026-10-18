@@ -17,5 +17,9 @@ export default defineConfig({
   markdown: {
     processor: satteri({ mdastPlugins: [jekyllLinks] }),
   },
-  integrations: [sitemap({ filter: (page) => !page.endsWith('/404.html') }), repoFiles()],
+  integrations: [
+    // The 420 copy is canonical at 420.barranco.life, so it stays out of this sitemap.
+    sitemap({ filter: (page) => !page.endsWith('/404.html') && !page.includes('/Actividades/420/') }),
+    repoFiles(),
+  ],
 });
