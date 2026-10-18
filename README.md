@@ -4,7 +4,7 @@
 
 El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades colaborativas y auto‑gestionadas dentro del Proyecto Cultural Barranco (Mallasa, La Paz). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva_Actividad.md), otros se suman, y entre todos se cuida el lugar para dejarlo **igual o mejor**. Lo verde empieza adentro.
 
-En el Barranco se elige lo verde: una forma de comunidad práctica, humana y en armonía con la naturaleza y los animales. Sin imponer, solo recordando. Si la visión resuena, puedes leerla completa [aquí](./VISION.md).
+En el Barranco se elige lo verde: una forma de comunidad práctica, humana y en armonía con la naturaleza y los animales. Sin imponer, solo recordando. Si la visión resuena, puedes leer [la visión completa](./VISION.md).
 
 Para participar: entra al [grupo de WhatsApp](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm), preséntate, y súmate a una actividad o [propón una nueva](#proponer-una-actividad).
 
