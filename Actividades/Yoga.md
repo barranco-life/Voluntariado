@@ -14,15 +14,15 @@ _Actividad del Voluntariado Barranco_
 
 ## Meta
 
-- **Versión:** v1.2.0
+- **Versión:** v1.3.0
 - **Estado:** actividad regular semanal del voluntariado (primer modelo).
-- **Responsable(s):** Krishna + Jyoti + Ernesto (punto de contacto operativo)
+- **Responsable(s):** Krishna + Ernesto (punto de contacto operativo)
 
 ## Links
 
 - [Grupo Voluntariado Barranco (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
 - [Grupo Yoga Barranco (WhatsApp, para más info y otras clases)](https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15)
-- [Ubicación (Google Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Ubicación (Google Maps)](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 - [Documento (siempre actualizado en GitHub)](https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Yoga.md)
 - [Referencia histórica (canvas público)](https://chatgpt.com/canvas/shared/695c6535e67881919baa3d1c82264bb7)
 
@@ -31,8 +31,7 @@ _Actividad del Voluntariado Barranco_
 ## 0) Lo esencial (en 5 líneas)
 
 - Yoga semanal en el **Proyecto Cultural Barranco**.
-- **Krishna (Hatha Yoga – Iyengar):** martes y jueves 10:00am.
-- **Jyoti (Hatha Yoga):** sábados 10:00am.
+- **Krishna (Hatha Yoga – Iyengar):** martes, jueves y sábados a las 9am, temporada del 1 de octubre al 5 de noviembre de 2026.
 - **Aporte sugerido: 40 Bs** (según posibilidades). **10 Bs** van a la **caja del voluntariado**.
 - Barra reducida disponible: consumir apoya al Barranco.
 - Se sostiene en modo comunidad: preparamos y dejamos el lugar impecable entre todos.
@@ -43,18 +42,18 @@ _Actividad del Voluntariado Barranco_
 
 Yoga Barranco es una práctica compartida: se llega, se ayuda un poco, se practica, y se deja todo en orden.
 
-Dentro del voluntariado, hoy sostenemos dos clases: Krishna (Hatha Yoga – Iyengar) y Jyoti (Hatha Yoga). Dos estilos, una misma base: cuidado, presencia y comunidad.
+Dentro del voluntariado, hoy sostenemos las clases de Krishna (Hatha Yoga – Iyengar). La base: cuidado, presencia y comunidad.
 
 ---
 
 ## 2) Cuándo y dónde
 
-- **Días:** martes y jueves (Krishna) + sábado (Jyoti)
-- **Hora:** 10:00am
+- **Días:** martes, jueves y sábados (temporada del 1 de octubre al 5 de noviembre de 2026)
+- **Hora:** 9am
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224
-- **Google Maps:** [ver ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- **Google Maps:** [ver ubicación](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
-> Nota: sábados y domingos también hay otras clases además de Jyoti. Para más info: [grupo de Yoga Barranco](https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15).
+> Nota: a veces hay otras clases además de estas. Para más info: [grupo de Yoga Barranco](https://chat.whatsapp.com/IUNZ5oQeG4a3nXEfJ33P15).
 
 ---
 
@@ -81,9 +80,9 @@ Dentro del voluntariado, hoy sostenemos dos clases: Krishna (Hatha Yoga – Iyen
 
 ## 5) Roles (si aplica)
 
-- **Facilitación de la clase:** Krishna (Iyengar) / Jyoti (Hatha)
-- **Punto de contacto / operación del día:** Ernesto (y Krishna/Jyoti según el día)
-- **Barra reducida:** Ernesto (y Krishna/Jyoti según disponibilidad)
+- **Facilitación de la clase:** Krishna (Iyengar)
+- **Punto de contacto / operación del día:** Ernesto (y Krishna)
+- **Barra reducida:** Ernesto (y Krishna según disponibilidad)
 
 ---
 
@@ -100,7 +99,7 @@ Dentro del voluntariado, hoy sostenemos dos clases: Krishna (Hatha Yoga – Iyen
 
 **Inventario / consolidación:**
 - Se hace **inventario semanal** del bloque reducido los **sábados después del yoga**, antes de que el Barranco abra a las 4:20pm.
-- Responsables: **Ernesto** + participación de **Krishna** y/o **Jyoti**.
+- Responsables: **Ernesto** + participación de **Krishna**.
 
 ---
 
@@ -115,6 +114,7 @@ Dentro del voluntariado, hoy sostenemos dos clases: Krishna (Hatha Yoga – Iyen
 ## 8) Notas y cambios
 
 **Changelog:**
+- **v1.3.0** — Temporada 2026 con Krishna: martes, jueves y sábados a las 9am, del 1 de octubre al 5 de noviembre. Las clases de Jyoti de los sábados quedan en pausa. Nuevo enlace de Google Maps.
 - **v1.2.0** — Se integra la clase de Jyoti (Hatha Yoga) de los sábados 10am; el aporte sugerido y aporte a caja se unifican para ambas clases.
 - **v1.1.0** — Reorganización al template (secciones 0–8) y links canónicos: GitHub como fuente de verdad; canvas como referencia histórica.
 - **v1.0.0** — Documento inicial de actividad (runbook).

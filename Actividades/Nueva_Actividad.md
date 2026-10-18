@@ -31,7 +31,7 @@ _Actividad del Voluntariado Barranco_
 ## Enlaces
 
 - [Grupo del Voluntariado (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
-- [Ubicación (Google Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Ubicación (Google Maps)](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 - **(Opcional)** [Grupo específico](LINK_A_GRUPO_ESPECIFICO)
 - **(Opcional)** [Inscripción / formulario](LINK_A_FORMULARIO)
 - **(Opcional)** [Arte / post](LINK_A_POST_O_ARTE)

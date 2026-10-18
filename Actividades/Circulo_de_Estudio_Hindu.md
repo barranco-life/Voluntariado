@@ -19,7 +19,7 @@ _Actividad del Voluntariado Barranco_
 ## Enlaces
 
 - [Grupo del Voluntariado (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
-- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 ---
 
@@ -51,7 +51,7 @@ Comenzamos con textos clásicos (los primeros dos están disponibles por donaci�
 - **Frecuencia:** semanal.
 - **Hora:** 4:00–5:00pm.
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224.
-- **Google Maps:** [Abrir ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- **Google Maps:** [Abrir ubicación](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 ---
 

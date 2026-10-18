@@ -22,7 +22,7 @@ _Actividad del Voluntariado Barranco_
 ## Links
 
 - [Grupo de WhatsApp — Voluntariado Barranco](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
-- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 ---
 
@@ -56,7 +56,7 @@ Es simple y adoptable: funciona con 5 personas y también con 30. Si una vez som
   - **12:00pm → 2:00pm** — apthapi + conversación + tareas del bloque
   - **2:00pm → 4:20pm** — ventana flexible: cierre suave + dejar listo para abrir + tareas + disfrutar el lugar (puede empezar desde **3:00pm**)
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224
-- **Google Maps:** [Abrir ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- **Google Maps:** [Abrir ubicación](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 ---
 
