@@ -17,7 +17,7 @@ _Actividad del Voluntariado Barranco_
 
 - [Documento siempre actualizado (GitHub)](https://github.com/barranco-life/Voluntariado/blob/main/Actividades/Año_Nuevo.md)
 - [Grupo del Voluntariado (WhatsApp)](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
-- [Ubicación (Google Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Ubicación (Google Maps)](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 **Referencias históricas (canvas):**
 - [Organización (borrador original)](https://chatgpt.com/canvas/shared/6952ba089210819180f8abd8cb90eee5)

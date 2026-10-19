@@ -1,0 +1,13 @@
+---
+// X.md -> /X.html (build.format 'preserve').
+import { getCollection } from 'astro:content';
+import MarkdownPage from '../components/MarkdownPage.astro';
+import { isReadme } from '../lib/page-meta';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages', (p) => !isReadme(p.id));
+  return pages.map((page) => ({ params: { slug: page.id.replace(/\.md$/i, '') }, props: { page } }));
+}
+const { page } = Astro.props;
+---
+<MarkdownPage page={page} />

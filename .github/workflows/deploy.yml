@@ -1,0 +1,48 @@
+# Builds the Voluntariado Astro site and deploys it to GitHub Pages.
+# Same contract as the Barranco site: Astro + official Pages actions.
+# Repo setting at publish time: Settings -> Pages -> Source -> "GitHub Actions" (today it is the
+# legacy Jekyll build from main). The custom domain stays voluntariado.barranco.life (CNAME).
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true # Actividades/420 (barranco-life/420, public) is part of the site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm run build
+      - name: URL contract (every URL of the old Jekyll site still exists)
+        run: node scripts/check-urls.mjs
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

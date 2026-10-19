@@ -1,0 +1,95 @@
+---
+import { SITE_NAME } from '../lib/page-meta';
+
+interface Props {
+  lang?: string;
+  /** Public path of this page: '/', '/VISION.html', '/Actividades/420/'. */
+  path: string;
+  title: string;
+  description: string;
+  image?: string;
+  /** Canonical URL when it is not this page (the 420 copy points to 420.barranco.life). */
+  canonical?: string;
+  /** Where the page's Markdown can be read and improved. */
+  source?: string;
+  home?: boolean;
+}
+const { lang = 'es', path, title, description, image = '/assets/README.jpg', source, home = false } = Astro.props;
+const site = Astro.site!;
+const canonical = Astro.props.canonical ?? new URL(path, site).href;
+const fullTitle = home ? SITE_NAME : `${title} · ${SITE_NAME}`;
+const t = lang === 'en'
+  ? { skip: 'Skip to content', theme: 'Dark theme', hint: 'Switch between light and dark', open: 'This site is open source.', improve: 'Improve this page' }
+  : { skip: 'Ir al contenido', theme: 'Tema oscuro', hint: 'Cambiar entre tema claro y oscuro', open: 'Este sitio es abierto.', improve: 'Mejora esta página' };
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href="/sitemap.xml" />
+    <!-- No icon yet (the old site had none either); this stops the /favicon.ico request. -->
+    <link rel="icon" href="data:," />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content={lang === 'en' ? 'en_US' : 'es_BO'} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL(image, site).href} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#141210" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#faf6ef" media="(prefers-color-scheme: light)" />
+    <script is:inline>
+      // Apply the saved theme before first paint; the system setting is the default.
+      try {
+        const saved = localStorage.getItem('voluntariado-theme');
+        if (saved === 'light' || saved === 'dark') document.documentElement.dataset.theme = saved;
+      } catch (e) {}
+    </script>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <script is:inline data-goatcounter="https://voluntariado-barranco-life.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">{t.skip}</a>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="/">{SITE_NAME}</a>
+        <button class="theme-toggle" type="button" aria-label={t.theme} title={t.hint} aria-pressed="false">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <path class="sun" d="M12 4V2m0 20v-2m8-8h2M2 12h2m13.66-5.66 1.41-1.41M4.93 19.07l1.41-1.41m0-11.32L4.93 4.93m14.14 14.14-1.41-1.41M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z" />
+            <path class="moon" d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z" />
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <main id="main" class="prose">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <p>{t.open} {source && <a href={source}>{t.improve}</a>}</p>
+    </footer>
+
+    <script>
+      const root = document.documentElement;
+      const dark = matchMedia('(prefers-color-scheme: dark)');
+      const toggle = document.querySelector<HTMLButtonElement>('.theme-toggle');
+      const current = () => root.dataset.theme || (dark.matches ? 'dark' : 'light');
+      // The button is "Dark theme": pressed when the page is dark, whatever made it dark.
+      const show = () => toggle?.setAttribute('aria-pressed', String(current() === 'dark'));
+      show();
+      dark.addEventListener('change', show);
+      toggle?.addEventListener('click', () => {
+        const next = current() === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = next;
+        try { localStorage.setItem('voluntariado-theme', next); } catch (e) {}
+        show();
+      });
+    </script>
+  </body>
+</html>

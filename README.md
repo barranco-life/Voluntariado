@@ -4,7 +4,7 @@
 
 El Voluntariado Barranco es una comunidad abierta y [replicable en otros espacios](https://github.com/barranco-life/Voluntariado/fork): un conjunto de actividades colaborativas y auto‑gestionadas dentro del Proyecto Cultural Barranco (Mallasa, La Paz). La idea es simple: alguien propone, [se le da forma](./Actividades/Nueva_Actividad.md), otros se suman, y entre todos se cuida el lugar para dejarlo **igual o mejor**. Lo verde empieza adentro.
 
-En el Barranco se elige lo verde: una forma de comunidad práctica, humana y en armonía con la naturaleza y los animales. Sin imponer, solo recordando. Si la visión resuena, puedes leerla completa [aquí](./VISION.md).
+En el Barranco se elige lo verde: una forma de comunidad práctica, humana y en armonía con la naturaleza y los animales. Sin imponer, solo recordando. Si la visión resuena, puedes leer [la visión completa](./VISION.md).
 
 Para participar: entra al [grupo de WhatsApp](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm), preséntate, y súmate a una actividad o [propón una nueva](#proponer-una-actividad).
 
@@ -12,11 +12,13 @@ Para participar: entra al [grupo de WhatsApp](https://chat.whatsapp.com/LUlxChjw
 
 Las actividades son nuestra “moneda”: excusas nobles para encontrarnos, cuidar el Barranco y celebrar la vida con responsabilidad. Si algo no se sostiene, se reprograma. Sin drama.
 
+**Cómo funciona:** una actividad se hace cuando hay voluntarios que quieren organizarla y sostenerla. Si no los hay, no se hace y no hay pena. Todo es opcional y no hace falta confirmar: vienes a lo que quieras. Entre todos nos encargamos de que todo quede igual o mejor que como estaba.
+
 ### En curso
 
 **Yoga Barranco 🪷 con Krishna**
 
-Clases regulares de Hatha Yoga – Iyengar (martes y jueves 10am): una práctica precisa y terapéutica que fortalece al facilitador, aporta a la caja del voluntariado y apoya al Proyecto Cultural Barranco. Se llega, se ayuda un poco, se practica, y se deja todo en orden. [Más info](./Actividades/Yoga.md)
+Clases regulares de Hatha Yoga – Iyengar (temporada 2026: martes, jueves y sábados a las 9am, del 1 de octubre al 5 de noviembre): una práctica precisa y terapéutica que fortalece al facilitador y apoya al Proyecto Cultural Barranco. Se llega, se ayuda un poco, se practica, y se deja todo en orden. [Más info](./Actividades/Yoga.md)
 
 **Apthapi del Voluntariado Barranco**
 
@@ -68,7 +70,7 @@ Próximamente habrá un formulario. Por ahora, mira cómo documentamos las activ
 
 ## Proyecto Cultural Barranco
 
-- [Google Maps](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Google Maps](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 - [Instagram](https://www.instagram.com/barranco.life/)
 - [TikTok](https://www.tiktok.com/@barranco.life)
 - [Facebook](https://facebook.com/barranco.life)

@@ -1,0 +1,24 @@
+{
+  "name": "voluntariado-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "check:urls": "node scripts/check-urls.mjs",
+    "images": "node scripts/optimize-images.mjs"
+  },
+  "dependencies": {
+    "@astrojs/markdown-satteri": "0.4.3",
+    "astro": "7.3.8"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "typescript": "6.0.3"
+  },
+  "engines": {
+    "node": ">=22.12"
+  }
+}

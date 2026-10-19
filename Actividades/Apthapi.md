@@ -14,15 +14,14 @@ _Actividad del Voluntariado Barranco_
 
 ## Meta
 
-- **Versión:** v1.0.0
-- **Estado:** activo (Marzo: sábado 28; para próximas fechas habrá votación en el grupo)
+- **Versión:** v1.2.0
+- **Estado:** activo (las próximas fechas se votan en el grupo)
 - **Responsable(s):** Ernesto (punto de contacto) + voluntarios del día
-- **Tarea del mes (Marzo):** inventario de los productos de la barra reducida (consumo/venta)
 
 ## Links
 
 - [Grupo de WhatsApp — Voluntariado Barranco](https://chat.whatsapp.com/LUlxChjwX6qIcdwRdaCGbm)
-- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Ubicación (Google Maps) — Proyecto Cultural Barranco](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 ---
 
@@ -34,7 +33,7 @@ Nos reunimos (idealmente un sábado al mes) para compartir un **apthapi** y cuid
 - Co‑creamos entre todos, con conciencia, bondad y sentido común.
 - Cerramos el bloque comunitario a las **2:00pm**.
 - Dejamos el lugar listo para abrir al público y también disfrutamos el espacio.
-- **Marzo:** sábado **28**. Para próximas fechas habrá votación en el grupo.
+- Las próximas fechas se votan en el grupo.
 
 ---
 
@@ -56,7 +55,7 @@ Es simple y adoptable: funciona con 5 personas y también con 30. Si una vez som
   - **12:00pm → 2:00pm** — apthapi + conversación + tareas del bloque
   - **2:00pm → 4:20pm** — ventana flexible: cierre suave + dejar listo para abrir + tareas + disfrutar el lugar (puede empezar desde **3:00pm**)
 - **Lugar:** Proyecto Cultural Barranco, Mallasa — Calle Las Tunas 224
-- **Google Maps:** [Abrir ubicación](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- **Google Maps:** [Abrir ubicación](https://maps.app.goo.gl/RfmcNoBoGjeC9GhS7)
 
 ---
 
@@ -90,7 +89,7 @@ Regla: horizontal, pero con roles claros cuando hace falta.
 - vaciar basureros
 - barrer
 - lavar platos/vasos
-- inventario de barra reducida (en Marzo: tarea principal del apthapi)
+- inventario de barra reducida
 
 **Tareas opcionales (según energía):**
 - jardín (orden, riego, poda ligera)
@@ -133,6 +132,7 @@ Regla: horizontal, pero con roles claros cuando hace falta.
 - Uno es libre de llegar e irse cuando quiera. Lo importante es sostener el acuerdo: cuidado, bondad y responsabilidad.
 
 -**Changelog:**
+- **v1.2.0** — Se quita la fecha de marzo, que ya pasó; las próximas fechas se votan en el grupo.
 - **v1.1.0** — Se actualiza la fecha a Marzo 28 y se mantiene como tarea del mes el inventario de la barra reducida.
 - **v1.0.0** — Primera versión del documento de actividad.
 

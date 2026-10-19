@@ -1,0 +1,13 @@
+---
+// A folder's README.md -> /folder/ (index.html), as GitHub Pages did. The root README is index.astro.
+import { getCollection } from 'astro:content';
+import MarkdownPage from '../../components/MarkdownPage.astro';
+import { isReadme } from '../../lib/page-meta';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages', (p) => isReadme(p.id) && p.id !== 'README.md');
+  return pages.map((page) => ({ params: { dir: page.id.replace(/\/README\.md$/i, '') }, props: { page } }));
+}
+const { page } = Astro.props;
+---
+<MarkdownPage page={page} />
